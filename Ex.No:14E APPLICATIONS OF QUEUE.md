@@ -1,4 +1,4 @@
-# Exp.No:40  
+# Ex.No:14E
 ## APPLICATIONS OF QUEUE
 
 ### AIM  
