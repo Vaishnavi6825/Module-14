@@ -1,4 +1,4 @@
-# Exp.No:39  
+# Ex.No:14D
 ## DEQUE - INSERTION
 
 
